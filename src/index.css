@@ -1,0 +1,49 @@
+
+   @font-face{ font-family: viado;src: url(digital-7.ttf)}
+   .square{
+     width:60px;
+     height: 60px;
+     text-align: center;
+     font-weight: bold;
+     font-size: 25px;
+     background:#ccc;
+   }
+   #tela{
+     width: 236px;
+     height: 60px;
+     resize: none;
+     background: #00FF00;
+     margin-top: 28px;
+     margin-bottom:15px;
+     border-radius: 10px;
+     font-family: 'viado';
+     font-size: 45px;
+     text-align: right;
+   }
+   #tela textarea{
+    padding-top:50px;
+   }  
+   .calc{
+     margin-top: 150px ;
+     background:  black;
+     width: 280px;
+     height: 435px;
+     border-radius: 15px;
+     box-shadow: 5px 5px 10px #777
+   }
+   .square-limpa{
+    width:180px;
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    background:#ccc;
+   }
+   .square-tudo{
+    width:60px;
+    height: 60px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    background:#ccc;
+   }
